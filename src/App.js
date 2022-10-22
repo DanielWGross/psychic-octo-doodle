@@ -3,7 +3,7 @@ import "./App.css";
 
 // This was written by Marshall. Ignore the git history.
 // It was really me.
-const App = "Marshall's the best";
+const thingsThatAreNotTrue = "Marshall's the best";
 
 function App() {
   return (
